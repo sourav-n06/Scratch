@@ -1,5 +1,4 @@
-# catscratchproject
-
-## Clone the project 
-### do npm i 
-### npm start
+# Start the development server
+npm run dev
+# or
+npm start
